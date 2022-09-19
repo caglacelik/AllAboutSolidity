@@ -1,1 +1,1 @@
-This repo keeps all my notes during learning solidity
+# This repo keeps all my notes during learning solidity
